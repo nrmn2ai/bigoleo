@@ -1,0 +1,6 @@
+{
+  "name": "BIGOLEO | Premium Domain Exchange & Creative Naming Lab",
+  "description": "Buy and sell premium domains, live auctions, custom AI naming concierge, Scrabble fusion game with senior appraisal board buyouts, and free .big domain with every .com purchase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
